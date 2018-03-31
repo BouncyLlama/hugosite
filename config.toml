@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "$DEPLOY_PRIME_URL"
 title = "Your Stupid Face"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"

@@ -1,4 +1,4 @@
-baseurl = "clever-ptolemy-4634b6"
+baseurl = "https://clever-ptolemy-4634b6.netlify.com/"
 title = "Your Stupid Face"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"

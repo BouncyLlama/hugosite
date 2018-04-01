@@ -1,5 +1,5 @@
 baseurl = "https://dev-null.netlify.com/"
-title = "Your Stupid Face"
+title = "/dev/null"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -10,7 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "Is real dumb"
+  slogan = "Where my thoughts go to die"
   description = "No, seriously. It is." # meta description
   copyright = "&copy;2018 Ethan Warwick"
   author = "Ethan Warwick"

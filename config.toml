@@ -50,7 +50,7 @@ paginate = 5 #frontpage pagination
   [params.social]
 #  facebook      = "full profile url in facebook"
 #  googleplus    = "full profile url in googleplus"
-  email         = "ewarwic@gmail.com"
+#  email         = ""
   twitter       = "https://twitter.com/jackthenoper"
   linkedin      = "https://www.linkedin.com/in/ethan-warwick-12a45149/"
 #  stackoverflow = "full profile url in stackoverflow"
